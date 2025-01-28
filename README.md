@@ -6,7 +6,7 @@ Este proyecto consiste en una aplicación web para detectar y clasificar sellos 
 
 Puedes probar la demo de la aplicación en el siguiente enlace. Ten en cuenta que, debido a que está alojada en [Render](https://render.com/), puede no estar disponible en todo momento.  
 
-[Probar la demo ahora](https://kade.nexwey.online/dist/index.html){ .md-button .md-button--primary }
+[Probar la demo ahora](https://kade.nexwey.online/dist/index.html)
 
 ![Vista previa de la demo](./starscan.gif)
 
