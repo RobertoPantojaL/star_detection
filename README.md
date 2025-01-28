@@ -2,6 +2,14 @@
 
 Este proyecto consiste en una aplicación web para detectar y clasificar sellos de estrella en imágenes. Utiliza una API de Python (Flask) para el procesamiento de imágenes y la clasificación, y un frontend en React (Vite) para la interfaz de usuario.
 
+## Demo en línea
+
+Puedes probar la demo de la aplicación en el siguiente enlace. Ten en cuenta que, debido a que está alojada en [Render](https://render.com/), puede no estar disponible en todo momento.  
+
+[Probar la demo ahora](https://kade.nexwey.online/dist/index.html){ .md-button .md-button--primary }
+
+![Vista previa de la demo](./starscan.gif)
+
 ## Estructura del Proyecto
 
 - `apiflask/`: Contiene el código de la API de Python (Flask)
